@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GamePlayer/ManagementPlayer.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasNode/LinearNode.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameDistance/CalculateDistance.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GamePlayer/Player.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Interaction.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/Enums/EnumTeam.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Local.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Portal.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasList/OrderedList.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GamePlayer/Actions.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameMapa/Configuration.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameRunnable/Trabalho_final_ED.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasList/DoubleLinkedList.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Ownership.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameMapa/Mapa.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Coordinates.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Connector.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameImport/ImportJsonFile.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasGraph/MatrixGraph.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasGraph/Network.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasNode/DoubleNode.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GamePlayer/PlayerCooldown.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameLocal/Route.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/GameMenu/Console.java</file>
+            <file>file:/C:/Users/Angelo/Desktop/TrabalhoRecursoED/src/EstruturasList/DoubleUnorderedLinkedList.java</file>
+        </group>
+    </open-files>
+</project-private>
